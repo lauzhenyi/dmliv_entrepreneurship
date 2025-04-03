@@ -1,7 +1,3 @@
-Got it! Here's the updated version of the README with a section referencing the `cleaning.do` file to document the data cleaning process:
-
----
-
 # Family Income, Entrepreneurship, and Social Mobility: A Double Machine Learning with Instrument Variable (DML-IV) Approach
 
 This repository presents an empirical analysis building on the work of **Lin et al. (2020)**, using a **Double Machine Learning (DoubleML)** framework with instrumental variables to investigate a central question:  
